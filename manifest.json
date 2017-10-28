@@ -7,6 +7,10 @@
         {
             "matches": ["https://www.liaoxuefeng.com/wiki/*"],
             "css": ["css/redesign.css"]
+        },
+        {
+            "matches": ["https://www.zhihu.com/"],
+            "css": ["css/zhihu.css"]
         }
     ]
 }
