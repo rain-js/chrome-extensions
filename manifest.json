@@ -9,7 +9,7 @@
             "css": ["css/redesign.css"]
         },
         {
-            "matches": ["https://www.zhihu.com/"],
+            "matches": ["https://www.zhihu.com/*"],
             "css": ["css/zhihu.css"]
         }
     ]
