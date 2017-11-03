@@ -11,6 +11,10 @@
         {
             "matches": ["https://www.zhihu.com/*"],
             "css": ["css/zhihu.css"]
+        },
+        {
+            "matches": ["http://blog.csdn.net/tisnly/article/details/*"],
+            "css": ["css/csdn.css"]
         }
     ]
 }
