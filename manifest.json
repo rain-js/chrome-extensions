@@ -13,7 +13,7 @@
             "css": ["css/zhihu.css"]
         },
         {
-            "matches": ["http://blog.csdn.net/tisnly/article/details/*"],
+            "matches": ["http://blog.csdn.net/*"],
             "css": ["css/csdn.css"]
         }
     ]
