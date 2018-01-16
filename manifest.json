@@ -15,6 +15,10 @@
         {
             "matches": ["http://blog.csdn.net/*"],
             "css": ["css/csdn.css"]
+        },
+        {
+            "matches": ["https://cn.vuejs.org/v2/guide/*"],
+            "css": ["css/vue.css"]
         }
     ]
 }
